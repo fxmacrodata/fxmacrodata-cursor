@@ -1,0 +1,11 @@
+{
+  "name": "fxmacrodata",
+  "version": "1.0.0",
+  "description": "Official-source macroeconomic releases, economic calendars, FX reference rates and market research through FXMacroData.",
+  "author": {"name": "FXMacroData", "email": "info@fxmacrodata.com"},
+  "homepage": "https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=fxmacrodata-cursor&utm_content=marketplace",
+  "keywords": ["finance", "macroeconomics", "forex", "economic-calendar", "mcp"],
+  "logo": "assets/icon.png",
+  "skills": "skills/",
+  "mcpServers": "mcp.json"
+}
